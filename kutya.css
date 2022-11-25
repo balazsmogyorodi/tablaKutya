@@ -1,0 +1,50 @@
+body {
+
+    color: brown;
+}
+
+caption {
+text-align: left;
+font-size: 22pt;
+margin-bottom: 30px;
+}
+
+thead {
+
+
+
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    
+tr:nth-child(even) {
+background-color: gray;
+}
+tr:nth-child(odd) {
+    background-color:ghostwhite;
+    border: 1px solid black;
+    }
+    tr.fo {
+        background-color: white;
+        border: none;
+        }
+
+th {font-size: 14pt;
+
+
+
+}
+
+td {
+text-align: center;
+}
+
+
+.osszevon {
+text-align: left;
+
+
+}
